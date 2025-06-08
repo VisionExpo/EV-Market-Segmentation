@@ -29,11 +29,12 @@ The goal is to identify optimal geographic and customer segments for launching E
 │   └── raw/                       # Original datasets
 ├── notebooks/
 │   └── segmentation_analysis.ipynb
-├── output/                       # All plots and visualizations
+├── output/                        # All plots and visualizations
 ├── reports/
 │   └── EV_Market_Booking_Report.pdf
-├── README.md                     # This file
-└── requirements.txt              # Python libraries
+├── README.md                      # This file
+└── requirements.txt               # Python libraries
+
 
 ---
 
@@ -92,7 +93,7 @@ Saved in `/output/` folder:
 ---
 
 ## 📄 Final Report & Repository
-- 📘 [Full Report PDF](./reports/EV Market Segmentation.pdf)  
+- 📘 [Full Report PDF](./reports/EV_Market_Segmentation.pdf) 
 - 📁 [GitHub Repo](https://github.com/VisionExpo/EV-Market-Segmentation)
 
 ---
