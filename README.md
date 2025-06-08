@@ -23,7 +23,7 @@ The goal is to identify optimal geographic and customer segments for launching E
 ---
 
 ## 📁 Project Structure
----
+
 📦 EV-Market-Segmentation/
 ├── data/
 │   └── raw/                       # Original datasets
@@ -92,7 +92,7 @@ Saved in `/output/` folder:
 ---
 
 ## 📄 Final Report & Repository
-- 📘 [Full Report PDF](./reports/EV_Market_Booking_Report.pdf)  
+- 📘 [Full Report PDF](./reports/EV Market Segmentation.pdf)  
 - 📁 [GitHub Repo](https://github.com/VisionExpo/EV-Market-Segmentation)
 
 ---
