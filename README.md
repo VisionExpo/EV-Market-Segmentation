@@ -24,6 +24,7 @@ The goal is to identify optimal geographic and customer segments for launching E
 
 ## 📁 Project Structure
 
+'''text
 📦 EV-Market-Segmentation/
 ├── data/
 │   └── raw/                       # Original datasets
@@ -35,7 +36,7 @@ The goal is to identify optimal geographic and customer segments for launching E
 ├── README.md                      # This file
 └── requirements.txt               # Python libraries
 
-
+'''
 ---
 
 ## 📂 Datasets Used
